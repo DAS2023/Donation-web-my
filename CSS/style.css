@@ -1,3 +1,115 @@
 *{
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* header section  */
+
+
+.header-main{
+
+    background-image: url(../images/donation2.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    background-size: cover;
+
+   
+   
+
+
+}
+
+
+.header-title{
+     padding-top: 220px;  
+    font-size: 60px;
+    color: whitesmoke;
+    
+    
+
+
+}
+
+.header-description{
+    padding-top: 20px;
+    font-size: 18px;
+    color: aliceblue;
+    padding-bottom: 50px;
+    
+
+
+}
+
+.header-button{
+
+    margin-bottom: 100px;
+    padding-top: 30px;
+    background-color: orangered;
+    color: aliceblue;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    
+}
+
+/* Donate Today section style */
+
+
+.section-donate-today{
+    text-align: center;
+    
+
+
+}
+
+.section2-title{
+    color: black;
+    font-size: 40px;
+    margin-top: 130px;
+    padding-bottom: 30px;
+
+}
+
+
+.section2-description{
+ color: lightslategrey;
+ padding-bottom: 50px;
+ 
+   
+
+}
+
+.section2-money{
+    display: flex;
+    justify-content: center;
+     justify-content: space-around 30px ; 
+      gap: 30px; 
+    
+   
+   
+
+}
+.money:hover{
+    border: 1px solid orangered;
+    background-color: lightsalmon;
+}
+
+.money{
+    padding: 40px 30px;
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 60px;
+    
+
+}
+
+.other-amount input {
+    border: 0;
+    padding: 10px 300px;
+    border-bottom: 1px solid orangered;
+    padding-bottom: px;
+    margin-bottom: 60px;
 }
