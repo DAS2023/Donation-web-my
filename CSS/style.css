@@ -206,8 +206,9 @@
    
 }
 .section4-description{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     color: lightslategray;
+    font-size: 20px;
 
 }
 
@@ -247,14 +248,92 @@
 
 
 .section5-title{
-    padding-bottom: 20px;
+    /* padding-bottom: 15px;  */
     font-size: 30px;
 
 
 }
 .section5-description{
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     color: lightslategray;
+    font-size: 20px;
 
 
 }
+.section6-update{
+
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.section6-update h1{
+    padding-bottom: 20px;
+    font-size: 30px;
+
+
+}
+.section6-update p{
+    color: lightslategray;
+    font-size: 20px;
+
+}
+
+.section7-last{
+    margin: 0 350px;
+    text-align: center;
+    padding: 70px 150px;
+    background-color: antiquewhite;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 50px;
+   
+}
+
+.section7-last input[type="email"] {
+    padding: 15px 40px;
+    border: 0;
+    padding-left: 15px;
+    background-color: lightgray;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 0;
+
+}
+.section7-last input[type="submit"] {
+    padding: 15px 40px;
+    border: 0;
+    background-color: orangered;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.section8-footer{
+    margin:  0;
+    text-align: center;
+    background-color: black;
+    padding: 60px 0px;
+}
+.section8-footer-last h3{
+
+    color: orangered;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+.section8-footer-last p{
+    color: white;
+
+}
+
+    
+
+
+
+
+
+
